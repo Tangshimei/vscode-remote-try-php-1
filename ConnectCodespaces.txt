@@ -1,0 +1,76 @@
+service-worker.js:1 Event handler of 'message' event must be added on the initial evaluation of worker script.
+s @ service-worker.js:1
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92 init 👋
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:workbench-telemetry:telemetry-service initialize {
+  "browserId": "9b5d43d33ae557249e7c122a2cea91c5",
+  "sessionId": "9f2387ee-a4b4-4916-b083-4e93bcca1b0e",
+  "pageLoadId": "cc2a63cd3f365d0132c5b0e82ee95d67",
+  "host": "ppe.github.dev",
+  "browserName": "chrome",
+  "browserVersion": "110.0.0",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "e2816fe719a4026ffa1ee0189dc89bdfdbafb164",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02230.359-cd408752",
+  "stableVSCodeCommitId": "e2816fe719a4026ffa1ee0189dc89bdfdbafb164",
+  "insiderVSCodeCommitId": "7d5abb62f32c5f81e4cca7567b578d0c7ac4ab7d",
+  "serviceLocation": "WestUs2",
+  "serviceInstance": "WestUs2",
+  "environment": "Staging",
+  "serverCorrelationId": "419e65ca-a213-4e48-9747-18d5c7c822f0",
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+}
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:workbench-page:workbench:vscs:web-client:4c92:codespaces-component:workbench-page:workbench:vscode-workbench EarlyLoadWorkbench: true
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint requested to connect once Object Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint requested to connect Object Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:EE20661F9AE25334C3CBB92738D208AFE3EB connection record: false
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:EE20661F9AE25334C3CBB92738D208AFE3EB creating new connection
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint creating connection Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare asked to connect
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare creating new connection
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare creating connection
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare firing change event:  Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:EE20661F9AE25334C3CBB92738D208AFE3EB none -> connecting
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare requested to connect once Object Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare requested to connect Object Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:EE20661F9AE25334C3CBB92738D208AFE3EB connection record: false
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:EE20661F9AE25334C3CBB92738D208AFE3EB creating new connection
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare creating connection Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare asked to connect
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare creating new connection
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare creating connection
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare connection status changed: none -> connecting, error: undefined
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare firing change event:  Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:onConnectionChanged:EE20661F9AE25334C3CBB92738D208AFE3EB none -> connecting
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare creating workspace client Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:workbench-telemetry:telemetry-service ["codespaces/web/mount-workbench/action_stop",{"mountCorrelationId":"08ddccf6-b4db-4b58-accc-fdadf6d3eecd","errorCode":-1,"errorType":"GenericError","errorMessage":"Cannot read properties of undefined (reading 'sessionId')","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"TypeError: Cannot read properties of undefined (reading 'sessionId')\n    at [PATH]/app.5fe5ac4a5bd705419c82.js:1:169027\n    at Generator.next (<anonymous>)\n    at s [PATH]/app.5fe5ac4a5bd705419c82.js:1:167910)"}]
+writeEvent @ 836.68d8437a259510f518ca.js:1
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:workbench-telemetry:telemetry-service ["codespaces/web/load/action_stop",{"errorCode":-1,"errorType":"GenericError","errorMessage":"VSCodeWorkbench mount failed with \"Cannot read properties of undefined (reading 'sessionId')\"","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"TypeError: Cannot read properties of undefined (reading 'sessionId')\n    at [PATH]/app.5fe5ac4a5bd705419c82.js:1:169027\n    at Generator.next (<anonymous>)\n    at s [PATH]/app.5fe5ac4a5bd705419c82.js:1:167910)","action":"Load","result":"Failure"}]
+writeEvent @ 836.68d8437a259510f518ca.js:1
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:workbench-telemetry:telemetry-service ["codespaces/web/error",{"errorCode":-1,"errorType":"GenericError","errorMessage":"VSCodeWorkbench mount failed with \"Cannot read properties of undefined (reading 'sessionId')\"","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"TypeError: Cannot read properties of undefined (reading 'sessionId')\n    at [PATH]/app.5fe5ac4a5bd705419c82.js:1:169027\n    at Generator.next (<anonymous>)\n    at s [PATH]/app.5fe5ac4a5bd705419c82.js:1:167910)"}]
+writeEvent @ 836.68d8437a259510f518ca.js:1
+service-worker.js:1 vscs:sw:d9f2:init got "configureServiceWorker" message Object
+service-worker.js:1 vscs:sw:d9f2:ConfigurationManager Updated service worker configuration Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient join started
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespace-state-watcher codespace state -> Available
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.4.0","platformVersion":"5.4.0.1101"}
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient joinWorkspace -> session:9 conversation:9da335b4-ef3e-4535-8917-51dc649ca9ab join messages count:2
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient join completed
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient:1 Start checking connection timeout:5000
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237"
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare LS session joined and authenticated
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient Creating proxy for workspace service
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare connection status changed: connecting -> connected, error: undefined
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare firing change event:  Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:onConnectionChanged:EE20661F9AE25334C3CBB92738D208AFE3EB connecting -> connected
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare 🔌 connected
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare connection status changed: connecting -> connected, error: undefined
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare firing change event:  Object
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:EE20661F9AE25334C3CBB92738D208AFE3EB connecting -> connected
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare-joint:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare-joint:liveshare 🔌 connected
+836.68d8437a259510f518ca.js:1 vscs:web-client:4c92:codespaces-component:connection-hub:liveshare:connection:EE20661F9AE25334C3CBB92738D208AFE3EB:liveshare:WorkspaceClient Creating proxy for sourceEvent service
+DevTools failed to load source map: Could not load content for https://ppe.github.dev/static/primer.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://ticino.blob.core.windows.net/sourcemaps/e2816fe719a4026ffa1ee0189dc89bdfdbafb164/core/vs/workbench/workbench.web.main.nls.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
