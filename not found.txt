@@ -1,0 +1,657 @@
+ Event handler of 'message' event must be added on the initial evaluation of worker script.
+s @ service-worker.js:1
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode/vs/workbench/workbench.web.main/:1  Failed to load resource: the server responded with a status of 404 ()
+ 
+(anonymous) @ loader.js:6
+ vscs:web-client:1d2c init 👋
+ vscs:web-client:1d2c:workbench-telemetry:telemetry-service initialize {
+  "browserId": "57bfc87931ac0c3d2627bac3123573ab",
+  "sessionId": "ee064d3c-1d60-49de-9a9d-69c27ba96a21",
+  "pageLoadId": "f8b0ce496d713dfdcf5c381aefe4718b",
+  "host": "ppe.github.dev",
+  "browserName": "chrome",
+  "browserVersion": "115.0.0",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "6445d93c81ebe42c4cbd7a60712e0b17d9463e97",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02410.559-5613b005",
+  "stableVSCodeCommitId": "6445d93c81ebe42c4cbd7a60712e0b17d9463e97",
+  "insiderVSCodeCommitId": "39e5dafcd66adab6f2d2ba65f6d6bde5eeb3767e",
+  "serviceLocation": "SoutheastAsia",
+  "serviceInstance": "ppe-rel-SoutheastAsia",
+  "environment": "Staging",
+  "serverCorrelationId": "46ba2811-e0f1-40ce-90dc-81fe03de3784",
+  "cookiesEnabled": true,
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+}
+ vscs:web-client:1d2c:codespaces-component:workbench-page initialize service worker Live Share connection
+ vscs:sw:6d45:init got "connectToLiveShareMessageType" message Object
+ vscs:sw:6d45:init connecting to Live Share
+ vscs:sw:6d45:connection-hub:liveshare-sw requested to connect Object Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:C93308D4651A150CFFA1965A4991DC5B8F29 connection record: false
+ vscs:sw:6d45:connection-hub:liveshare-sw:C93308D4651A150CFFA1965A4991DC5B8F29 creating new connection
+ vscs:sw:6d45:connection-hub:liveshare-sw creating connection Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare asked to connect
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating new connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 none -> connecting
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating workspace client Object
+ vscs:sw:6d45:init got "configureServiceWorker" message Object
+ vscs:sw:6d45:ConfigurationManager Updated service worker configuration Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint requested to connect once Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:C93308D4651A150CFFA1965A4991DC5B8F29 connection record: false
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:C93308D4651A150CFFA1965A4991DC5B8F29 creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint creating connection Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare asked to connect
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare creating connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 none -> connecting
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare requested to connect once Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:C93308D4651A150CFFA1965A4991DC5B8F29 connection record: false
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:C93308D4651A150CFFA1965A4991DC5B8F29 creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare creating connection Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare asked to connect
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 none -> connecting
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating workspace client Object
+ WebSocket connection to 'wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/dc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252Fdc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c%26sig%3DjquTR%252Bz%252BPMphCR06Mc8afX3xpF6Tvan8yPc1rR67%252FuM%253D%26se%3D1691561346%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: connecting -> disconnected, error: 
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 connecting -> disconnected
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 disposing the connection
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare:WorkspaceClient stopCheckConnection reason:'disposed'
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing connection "C93308D4651A150CFFA1965A4991DC5B8F29" due to an error 
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw connection failed, retrying 3
+ vscs:sw:6d45:connection-hub:liveshare-sw creating connection Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare asked to connect
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating new connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 none -> connecting
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating workspace client Object
+ vscs:web-client:1d2c:codespace-state-watcher codespace state -> Starting
+ vscs:web-client:1d2c:codespaces-component onCodespaceStateChange:  Array(3)
+ vscs:sw:6d45:init got "connectToLiveShareMessageType" message Object
+ vscs:sw:6d45:init connecting to Live Share
+ vscs:sw:6d45:connection-hub:liveshare-sw requested to connect Object Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: false
+ vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C creating new connection
+ vscs:web-client:1d2c:codespaces-component:workbench-page initialize service worker Live Share connection
+ vscs:sw:6d45:connection-hub:liveshare-sw creating connection Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare asked to connect
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare creating new connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare creating connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C none -> connecting
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare creating workspace client Object
+  INFO Resolving connection token (codespaces)...
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.be67b8db556492a3720f.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.c4cce2bb8fe3d6d837a0.js:1:209812)
+    at I.rewrite (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:126:2967)
+    at $.uriToBrowserUri (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:126:3642)
+    at Object.Ye [as $UO] (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:126:38638)
+    at P.g (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:1599:14878)
+   ERR VSCode connection is not established yet: Error: VSCode connection is not established yet
+    at t.assert (https://assets.ppe.github.dev/static/351.be67b8db556492a3720f.js:1:261)
+    at t.assertDefined (https://assets.ppe.github.dev/static/327.7adbd6b19923e7f0cba2.js:1:9385)
+    at I.e (https://assets.ppe.github.dev/static/app.c4cce2bb8fe3d6d837a0.js:1:209812)
+    at I.rewrite (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:126:2967)
+    at $.uriToBrowserUri (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:126:3642)
+    at Object.Ye [as $UO] (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:126:38638)
+    at P.g (https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/workbench/workbench.web.main.js:1599:14998)
+ Refused to load the image 'vscode-remote://codespaces+animated-space-rotary-phone-9xvgggw5rgrhp4pr/vscode/bin/linux-x64/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/extensions/markdown-language-features/media/preview-light.svg' because it violates the following Content Security Policy directive: "img-src 'self'
+            https:
+            data:
+            blob:
+            vscode-remote-resource:
+            https://ppe.github.dev/
+        https://assets.ppe.github.dev/".
+
+getWidth @ workbench.web.main.js:222
+ WebSocket connection to 'wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/dc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252Fdc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c%26sig%3DjquTR%252Bz%252BPMphCR06Mc8afX3xpF6Tvan8yPc1rR67%252FuM%253D%26se%3D1691561346%26skn%3DWorkspaceShareKey' failed: 
+openConnection @ 183.27e6c2f….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: connecting -> disconnected, error: 
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 connecting -> disconnected
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 disposing the connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare:WorkspaceClient stopCheckConnection reason:'disposed'
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare disposing connection "C93308D4651A150CFFA1965A4991DC5B8F29" due to an error 
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare error during connection 
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare connection failed:  
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: 
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 connecting -> disconnected
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 disposing the connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare-joint:liveshare connection failed:  
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint disposing connection "C93308D4651A150CFFA1965A4991DC5B8F29" due to an error 
+writeEvent @ 327.7adbd6b….js:1
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint error during connection 
+writeEvent @ 327.7adbd6b….js:1
+327.7adbd6b….js:1 Uncaught (in promise) 
+ WebSocket connection to 'wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/dc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252Fdc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c%26sig%3DjquTR%252Bz%252BPMphCR06Mc8afX3xpF6Tvan8yPc1rR67%252FuM%253D%26se%3D1691561346%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: connecting -> disconnected, error: 
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 connecting -> disconnected
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 disposing the connection
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare:WorkspaceClient stopCheckConnection reason:'disposed'
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing connection "C93308D4651A150CFFA1965A4991DC5B8F29" due to an error 
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw connection failed, retrying 2
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.docker/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.docker/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.coffeescript/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.coffeescript/package' failed with status code 404
+   ERR 
+ vscs:sw:6d45:connection-hub:liveshare-sw creating connection Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare asked to connect
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating new connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 none -> connecting
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating workspace client Object
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.go/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.go/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.fsharp/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.fsharp/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.npm/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.npm/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.css-language-features/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.css-language-features/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.r/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.r/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.clojure/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.clojure/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.extension-editing/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.extension-editing/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.json-language-features/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.json-language-features/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.php/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.php/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.handlebars/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.handlebars/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.sql/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.sql/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.merge-conflict/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.merge-conflict/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.html-language-features/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.html-language-features/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.scss/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.scss/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-abyss/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-abyss/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.search-result/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.search-result/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.ruby/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.ruby/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-solarized-light/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-solarized-light/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.markdown-math/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.markdown-math/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.latex/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.latex/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.typescript-language-features/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.typescript-language-features/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.shaderlab/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.shaderlab/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.hlsl/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.hlsl/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-tomorrow-night-blue/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-tomorrow-night-blue/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.xml/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.xml/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.objective-c/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.objective-c/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.json/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.json/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.pug/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.pug/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-quietlight/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-quietlight/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.diff/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.diff/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.vb/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.vb/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.github-authentication/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.github-authentication/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.ini/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.ini/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.bat/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.bat/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-monokai/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-monokai/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.cpp/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.cpp/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.configuration-editing/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.configuration-editing/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.javascript/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.javascript/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-solarized-dark/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-solarized-dark/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-kimbie-dark/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-kimbie-dark/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.dart/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.dart/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.emmet/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.emmet/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.less/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.less/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.razor/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.razor/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.typescript/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.typescript/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.lua/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.lua/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.rust/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.rust/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.markdown/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.markdown/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.groovy/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.groovy/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.csharp/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.csharp/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.microsoft-authentication/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.microsoft-authentication/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.ipynb/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.ipynb/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.media-preview/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.media-preview/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-defaults/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-defaults/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.restructuredtext/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.restructuredtext/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.make/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.make/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.vscode-theme-seti/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.vscode-theme-seti/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.html/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.html/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.references-view/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.references-view/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.perl/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.perl/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.yaml/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.yaml/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.java/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.java/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.css/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.css/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.log/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.log/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.julia/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.julia/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.builtin-notebook-renderers/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.builtin-notebook-renderers/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.simple-browser/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.simple-browser/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.swift/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.swift/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.markdown-language-features/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.markdown-language-features/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.shellscript/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.shellscript/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-red/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-red/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.python/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.python/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.git-base/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.git-base/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.powershell/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.powershell/package' failed with status code 404
+   ERR 
+www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-monokai-dimmed/package:1  Failed to load resource: the server responded with a status of 404 ()
+  INFO Request to 'https://www.vscode-unpkg.net/_lp/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/1.81.0/zh/vscode.theme-monokai-dimmed/package' failed with status code 404
+   ERR 
+ vscs:web-client:1d2c:codespace-state-watcher codespace state -> Starting
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f connecting...
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Local version: SSH-2.0-dev-tunnels-ssh_3.11.13, remote version: SSH-2.0-Microsoft.VisualStudio.Ssh_3.4
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient KeyExchange negotiation: Server (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group16-sha512, diffie-hellman-group14-sha256, ext-info-s) Client (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group14-sha256) => ecdh-sha2-nistp384
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient PublicKey negotiation: Server (rsa-sha2-512, rsa-sha2-256) Client (rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp384, ecdsa-sha2-nistp256) => rsa-sha2-512
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ClientEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ServerEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ClientHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ServerHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ClientCompression negotiation: Server (none) Client (none) => none
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ServerCompression negotiation: Server (none) Client (none) => none
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f encrypted.
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f Authenticating([ssh-rsa])
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f server authenticated.
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient join started
+ WebSocket connection to 'wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/dc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252Fdc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c%26sig%3DjquTR%252Bz%252BPMphCR06Mc8afX3xpF6Tvan8yPc1rR67%252FuM%253D%26se%3D1691561346%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: connecting -> disconnected, error: 
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 connecting -> disconnected
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 disposing the connection
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare:WorkspaceClient stopCheckConnection reason:'disposed'
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing connection "C93308D4651A150CFFA1965A4991DC5B8F29" due to an error 
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw connection failed, retrying 1
+ vscs:sw:6d45:connection-hub:liveshare-sw creating connection Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare asked to connect
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating new connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 none -> connecting
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare creating workspace client Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f client authenticated.
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.15.0","platformVersion":"5.15.0.1042"}
+ WebSocket connection to 'wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/dc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252Fdc448d6e0a4a9e184357f192f1e1baa992cb--567a55c4-c250-48be-bab7-48fc0a01c94c%26sig%3DjquTR%252Bz%252BPMphCR06Mc8afX3xpF6Tvan8yPc1rR67%252FuM%253D%26se%3D1691561346%26skn%3DWorkspaceShareKey' failed: Error during WebSocket handshake: Unexpected response code: 404
+openConnection @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection status changed: connecting -> disconnected, error: 
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 connecting -> disconnected
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:C93308D4651A150CFFA1965A4991DC5B8F29 disposing the connection
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare:WorkspaceClient stopCheckConnection reason:'disposed'
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:C93308D4651A150CFFA1965A4991DC5B8F29:liveshare connection failed:  
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing connection "C93308D4651A150CFFA1965A4991DC5B8F29" due to an error 
+writeEvent @ service-worker.js:1
+ vscs:sw:6d45:connection-hub:liveshare-sw disposing C93308D4651A150CFFA1965A4991DC5B8F29 connection
+ vscs:sw:6d45:connection-hub:liveshare-sw error during connection 
+writeEvent @ service-worker.js:1
+service-worker.js:1 Uncaught (in promise) 
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient joinWorkspace -> session:2 conversation:89d087ff-697b-47c8-bcda-e6a01e4d1e37 join messages count:2
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient join completed
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient:1 Start checking connection timeout:5000
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237"
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare LS session joined and authenticated
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for workspace service
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare connection status changed: connecting -> connected, error: undefined
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare firing change event:  Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C connecting -> connected
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare 🔌 connected
+ vscs:web-client:1d2c:codespace-state-watcher codespace state -> Starting
+  INFO Updating additional builtin extensions cache
+ vscs:web-client:1d2c:codespace-state-watcher codespace state -> Starting
+ vscs:web-client:1d2c:codespace-state-watcher codespace state -> Available
+ vscs:web-client:1d2c:codespaces-component onCodespaceStateChange:  Array(3)
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:providers Waiting for service worker to be configured (timeout: 5000ms, retries remaining: 3)
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench Progress: Connecting to codespace...
+ vscs:sw:6d45:init got "connectToLiveShareMessageType" message Object
+ vscs:sw:6d45:init connecting to Live Share
+ vscs:sw:6d45:connection-hub:liveshare-sw requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench Returning existing service worker configuration promise
+ vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: true
+ vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C return connected
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:providers Service worker configured
+ vscs:web-client:1d2c:codespaces-component:workbench-page initialize service worker Live Share connection
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench Initializing browser-based codespace host service client
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench Initializing browser-based Jupyter server host service client
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench Initializing browser-based VS Code server host service client
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 connection record: false
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:vscode creating connection Object
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode asked to connect
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode creating new connection
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode creating connection
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode connection status changed: none -> connecting, error: undefined
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:vscode:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 none -> connecting
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode get LS connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint requested to connect once Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: false
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:7795F8BCC28EFC92A7AA984FCE99694F554C creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint creating connection Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare asked to connect
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare creating connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C none -> connecting
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare requested to connect once Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: false
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:7795F8BCC28EFC92A7AA984FCE99694F554C creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare creating connection Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare asked to connect
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare creating new connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare creating connection
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare connection status changed: none -> connecting, error: undefined
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C none -> connecting
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare creating workspace client Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:vscode requested to connect Object Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:vscode:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 connection record: true
+ vscs:web-client:1d2c:codespaces-component:connection-hub:vscode:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 connecting with timeout - Infinity ms
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode asked to connect with timeout of Infinity ms
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode asked to connect
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode return promise, resolved: false
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f connecting...
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Local version: SSH-2.0-dev-tunnels-ssh_3.11.13, remote version: SSH-2.0-Microsoft.VisualStudio.Ssh_3.4
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient KeyExchange negotiation: Server (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group16-sha512, diffie-hellman-group14-sha256, ext-info-s) Client (ecdh-sha2-nistp384, ecdh-sha2-nistp256, diffie-hellman-group14-sha256) => ecdh-sha2-nistp384
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient PublicKey negotiation: Server (rsa-sha2-512, rsa-sha2-256) Client (rsa-sha2-512, rsa-sha2-256, ecdsa-sha2-nistp384, ecdsa-sha2-nistp256) => rsa-sha2-512
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ClientEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ServerEncryption negotiation: Server (aes256-gcm@openssh.com, aes256-cbc, aes256-ctr) Client (aes256-gcm@openssh.com, aes256-ctr) => aes256-gcm@openssh.com
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ClientHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ServerHmac negotiation: Server (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) Client (hmac-sha2-512-etm@openssh.com, hmac-sha2-256-etm@openssh.com, hmac-sha2-512, hmac-sha2-256) => hmac-sha2-512-etm@openssh.com
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ClientCompression negotiation: Server (none) Client (none) => none
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient ServerCompression negotiation: Server (none) Client (none) => none
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f encrypted.
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f Authenticating([ssh-rsa])
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f server authenticated.
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient join started
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient f client authenticated.
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Host version: {"version":"1.0.5571.49914","protocolVersion":"2.2","platformName":"Linux 5.15.0","platformVersion":"5.15.0.1042"}
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient joinWorkspace -> session:4 conversation:89d087ff-697b-47c8-bcda-e6a01e4d1e37 join messages count:2
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient join completed
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient:1 Start checking connection timeout:5000
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare ownerId: "398a6654-997b-47e9-b12b-9515b896b4de_83816237"
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare LS session joined and authenticated
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for workspace service
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare connection status changed: connecting -> connected, error: undefined
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C connecting -> connected
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare 🔌 connected
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare connection status changed: connecting -> connected, error: undefined
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare firing change event:  Object
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C connecting -> connected
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare-joint:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare-joint:liveshare 🔌 connected
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for serverSharing service
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for IVSCodeServerHostService service
+ vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for ICodespaceHostService service
+ vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode starting vscode server.. Object
+ vscs:sw:6d45:connection-hub:liveshare-sw requested to connect Object Object
+ vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: true
+ vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C return connected
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for serverSharing service
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for sourceEvent service
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for streamManager service
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_1
+ vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient SshChannel(Type: session, Id: 2, RemoteId: 1) closed remotely. (S: 681, R: 241)
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode Executed start-remote-server using gRPC
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode vscode started, forwarding the server port
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode the server port forwarded, port number is 40719
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode vscode server startup complete
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode forwarding the VSCode Server port "40719".
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode VSCode Server port "40719" forwarded.
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient Creating proxy for streamManager service
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode connection status changed: connecting -> connected, error: undefined
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode firing change event:  Object
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:connection-hub:vscode:onConnectionChanged:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 connecting -> connected
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:vscode-connection:connection:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97:vscode 🔌 connected
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench connection type MainThread
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench sending VS Code server port to service worker
+ vscs:sw:6d45:init got "setVSCodeServerPortMessageType" message Object
+ vscs:sw:6d45:connection-hub:vscode-sw Setting VS Code server port to 40719
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench Progress: Done
+log.ts:421  INFO Resolved connection token (codespaces) after 12316 ms
+log.ts:421  INFO Creating a socket (renderer-Management-91ddfb1d-f17c-4e5c-ac5e-4e278a6e08ef)...
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #1, url: wss://codespaces+animated-space-rotary-phone-9xvgggw5rgrhp4pr:443/stable-6445d93c81ebe42c4cbd7a60712e0b17d9463e97?reconnectionToken=91ddfb1d-f17c-4e5c-ac5e-4e278a6e08ef&reconnection=false&skipWebSocketFrames=false
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 starting connection Object
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 requested to connect Object Object
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 connection record: true
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 return connected
+log.ts:421  INFO Creating a socket (renderer-ExtensionHost-e43e432d-ca0f-4a83-b347-59d579d5d554)...
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #2, url: wss://codespaces+animated-space-rotary-phone-9xvgggw5rgrhp4pr:443/stable-6445d93c81ebe42c4cbd7a60712e0b17d9463e97?reconnectionToken=e43e432d-ca0f-4a83-b347-59d579d5d554&reconnection=false&skipWebSocketFrames=false
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 starting connection Object
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 requested to connect Object Object
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 connection record: true
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscs:web-client:1d2c:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2:7795F8BCC28EFC92A7AA984FCE99694F554C_82c186e4-a62e-4064-882e-551edd4db1d1_stable_6445d93c81ebe42c4cbd7a60712e0b17d9463e97 return connected
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_2
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_3
+log.ts:421  INFO Creating a socket (renderer-Management-91ddfb1d-f17c-4e5c-ac5e-4e278a6e08ef) was successful after 518 ms.
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:workbench-telemetry:telemetry-service ["codespaces/web/load/action_stop",{"errorCode":-1,"errorType":"ConnectedError","errorMessage":"connected","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: connected\n    at [PATH]/app.c4cce2bb8fe3d6d837a0.js:1:132950\n    at o.value [PATH]/app.c4cce2bb8fe3d6d837a0.js:1:152621)\n    at c.w [PATH]/workbench.web.main.js:69:1902)\n    at c.x [PATH]/workbench.web.main.js:69:1972)\n    at c.fire [PATH]/workbench.web.main.js:69:2188)\n    at w.<anonymous> [PATH]/app.c4cce2bb8fe3d6d837a0.js:1:157623)\n    at Generator.next (<anonymous>)\n    at [PATH]/app.c4cce2bb8fe3d6d837a0.js:1:151449\n    at new Promise (<anonymous>)\n    at s [PATH]/app.c4cce2bb8fe3d6d837a0.js:1:151194)","action":"Load","result":"Success"}]
+writeEvent @ 327.7adbd6b19923e7f0cba2.js:1
+log.ts:421  INFO Creating a socket (renderer-ExtensionHost-e43e432d-ca0f-4a83-b347-59d579d5d554) was successful after 534 ms.
+183.27e6c2fba61874f09860.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ 183.27e6c2fba61874f09860.js:1
+service-worker.js:1 vscs:sw:6d45:init got "connectToLiveShareMessageType" message Object
+service-worker.js:1 vscs:sw:6d45:init connecting to Live Share
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw requested to connect Object Object
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:workbench-page initialize service worker Live Share connection
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: true
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C return connected
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw requested to connect Object Object
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C connection record: true
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw:7795F8BCC28EFC92A7AA984FCE99694F554C return connected
+327.7adbd6b19923e7f0cba2.js:1 vscs:web-client:1d2c:codespaces-component:connection-hub:liveshare:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient SshChannel(Type: session, Id: 3, RemoteId: 2) send window is full. Waiting for window adjustment before sending.
+writeEvent @ 327.7adbd6b19923e7f0cba2.js:1
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient openStreamingChannel -> streamId:ServerSharing_4
+service-worker.js:1 vscs:sw:6d45:connection-hub:liveshare-sw:connection:7795F8BCC28EFC92A7AA984FCE99694F554C:liveshare:WorkspaceClient SshChannel(Type: session, Id: 3, RemoteId: 2) closed remotely. (S: 644, R: 1028)
+commandService.ts:91 Uncaught (in promise) Error: command 'github.codespaces.activate' not found
+    at y.k (commandService.ts:91:26)
+    at y.executeCommand (commandService.ts:85:15)
+commandService.ts:91 Uncaught (in promise) Error: command 'setContext' not found
+    at y.k (commandService.ts:91:26)
+    at y.executeCommand (commandService.ts:85:15)
+log.ts:441   ERR [Extension Host] (node:198) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+console.ts:137 [Extension Host] (node:198) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+$ @ console.ts:137
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/node_modules/tas-client-umd/lib/tas-client-umd.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/node_modules/xterm/lib/xterm.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/node_modules/xterm-addon-unicode11/lib/xterm-addon-unicode11.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/node_modules/xterm-addon-webgl/lib/xterm-addon-webgl.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/node_modules/xterm-addon-image/lib/xterm-addon-image.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://assets.ppe.github.dev/stable/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/node_modules/vscode-textmate/release/main.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+DevTools failed to load source map: Could not load content for https://ticino.blob.core.windows.net/sourcemaps/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/core/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution.win.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE

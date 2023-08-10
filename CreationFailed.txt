@@ -1,0 +1,1510 @@
+Some cookies are misusing the recommended “SameSite“ attribute 3
+Content-Security-Policy warnings 2
+vscs:web-client:fa88:bootstrap session data found 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:fa88:bootstrap initializing with partner info 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:fa88:bootstrap:partnerInfo-init enhancing keys 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:fa88:bootstrap:partnerInfo-init saving to local storage 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:fa88:bootstrap done processing url 327.94d38c525cb7715fdd3d.js:1:33530
+This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. tangshimei-reimagined-funicular-p6v5559wxpg3r6pr.ppe.github.dev
+vscs:web-client:f761 init 👋 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:fa88:bootstrap start rendering 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service initialize {
+  "browserId": "cebcf30b6497a699122c3ec7708857c2",
+  "sessionId": "80cfd5c5-d8ed-4d98-9ed5-9098b72bab8c",
+  "pageLoadId": "fb065ee8df954118fd5c0aa789bf53e6",
+  "host": "ppe.github.dev",
+  "browserName": "firefox",
+  "browserVersion": "115.0.0",
+  "browserOS": "Windows 10",
+  "vscodeCommit": "74f6148eb9ea00507ec113ec51c489d6ffb4b771",
+  "vscodeQuality": "stable",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.02390.512-40377e86",
+  "stableVSCodeCommitId": "74f6148eb9ea00507ec113ec51c489d6ffb4b771",
+  "insiderVSCodeCommitId": "4390ebc406732e5b4eed22a1d7aa4fc0ef4a9460",
+  "serviceLocation": "SoutheastAsia",
+  "serviceInstance": "ppe-rel-SoutheastAsia",
+  "environment": "Staging",
+  "serverCorrelationId": "69eb3c90-e1ec-4141-8897-776658f7215a",
+  "cookiesEnabled": true,
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+} 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/app-state-changed 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/time-to-interactive/action_start 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/load/action_start 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component render: "Provisioning", previous: "null" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render state: "Provisioning" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render splash screen: true 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render workbench: false 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/splash-screen-state-transition 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:LocalStorageKeychain Error: Failed to get cipher record
+    _ https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    n https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    i https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    i https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    get https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    r https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    c https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    c https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    preconnect https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    initConnectionHub https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    once https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    SplashScreenState https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    Gi https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    xo https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    vu https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    hu https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    ou https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    nu https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    ju https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    Xu https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    cu https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    Xu https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    render https://assets.ppe.github.dev/static/commons-app-react-dom.production.min.js.a35f98a0b0c8ee8404a2.js:1
+    r https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    c https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    c https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    main https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    n https://assets.ppe.github.dev/static/bootstrap.459bec136f08bc19df52.js:1
+    a https://assets.ppe.github.dev/static/bootstrap.459bec136f08bc19df52.js:1
+327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/codespace-poll-attempts 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen rendering creation logs 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:LocalStorageKeychain Error: No valid keys found.
+    getKeyToEncrypt https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    n https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    i https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    i https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    set https://assets.ppe.github.dev/static/489.041a36830004f206072b.js:1
+    r https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    c https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    c https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    clearConnectionData https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    r https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+    s https://assets.ppe.github.dev/static/app.fa500e7479c4d8456f15.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:communication-adapter connecting CommunicationAdapter using the ConnectionHub 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:communication-adapter early connect saved nullms 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:auth-service got keychain keys from the /keychain-keys endpoint 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-config Feature flags already initialized 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component platform info found: true 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component render: "Provisioning", previous: "null" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render state: "Provisioning" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page Already polling for Codespace connection readiness, returning existing promise 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render splash screen: true 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render workbench: false 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/splash-screen-state-transition 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen Already polling for Codespace connection readiness, returning existing promise 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen rendering creation logs 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:side-effects check: "Provisioning"/"null" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page initialize service worker Live Share connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespace-state-watcher start, current state: "stopped" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher stop, current state: "stopped" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher Polling at a 1000ms rate 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher getting codespace info 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher codespace state -> Provisioning 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespace-state-watcher Polling at a 1000ms rate 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher getting codespace info 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher codespace state -> Provisioning 327.94d38c525cb7715fdd3d.js:1:33620
+Cookie “MC1” has been rejected for invalid domain. diagnostic
+Cookie “MS0” has been rejected for invalid domain. diagnostic
+Cookie “MC1” has been rejected for invalid domain. diagnostic
+Cookie “MS0” has been rejected for invalid domain. diagnostic
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen service worker finished configuring 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:communication-adapter gRPC web feature flag is enabled, creating clients 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:communication-adapter Initializing browser-based codespace host service client 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:communication-adapter Initializing browser-based Jupyter server host service client 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:communication-adapter Initializing browser-based VS Code server host service client 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 40, retryDelay: 2000, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 40, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen service worker finished configuring 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher Polling at a 1000ms rate 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher getting codespace info 327.94d38c525cb7715fdd3d.js:1:33530
+Firefox can’t establish a connection to the server at wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390%26sig%3DzpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%253D%26se%3D1689794487%26skn%3DWorkspaceShareKey. 183.0649633ec2f239e60b99.js:1:570866
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 3 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare signal rejected reason -> type:i props:{"fileName":"https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js","lineNumber":1,"columnNumber":6915,"message":"connection record disposed by ConnectionHub: {\n  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",\n  \"originalErrorType\": \"<no original type>\",\n  \"errorCode\": -1,\n  \"errorType\": \"GenericError\",\n  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\\n\"\n} $1 $1","errorType":"CancellationError"} 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare error during connection Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint connection failed, retrying 40 327.94d38c525cb7715fdd3d.js:1:33620
+Uncaught (in promise) Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1 $1
+    r https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    i https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    cancel https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    invoke https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    fire https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    onConnectionChangedHandler https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    handleConnectionError https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:6915
+vscs:web-client:f761:codespace-state-watcher codespace state -> Failed 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespace-state-watcher auto stop 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher stop, current state: "running" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespace-state-watcher fire state change 
+Array(3) [ null, "Failed", "Provisioning" ]
+327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component onCodespaceStateChange:  
+Array(3) [ null, "Failed", "Provisioning" ]
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/app-state-changed 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component render: "Failed", previous: "Provisioning" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render state: "Failed" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page Already polling for Codespace connection readiness, returning existing promise 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render splash screen: true 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page render workbench: false 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:workbench-telemetry:telemetry-service track codespaces/web/splash-screen-state-transition 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen Already polling for Codespace connection readiness, returning existing promise 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen rendering creation logs 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:side-effects check: "Failed"/"Provisioning" 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page initialize service worker Live Share connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 39, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
+Firefox can’t establish a connection to the server at wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390%26sig%3DzpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%253D%26se%3D1689794487%26skn%3DWorkspaceShareKey. 183.0649633ec2f239e60b99.js:1:570866
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 3 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare signal rejected reason -> type:i props:{"fileName":"https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js","lineNumber":1,"columnNumber":6915,"message":"connection record disposed by ConnectionHub: {\n  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",\n  \"originalErrorType\": \"<no original type>\",\n  \"errorCode\": -1,\n  \"errorType\": \"GenericError\",\n  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\\n\"\n} $1 $1","errorType":"CancellationError"} 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare error during connection Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint connection failed, retrying 39 327.94d38c525cb7715fdd3d.js:1:33620
+Uncaught (in promise) Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1 $1
+    r https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    i https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    cancel https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    invoke https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    fire https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    onConnectionChangedHandler https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    handleConnectionError https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:6915
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 38, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
+Firefox can’t establish a connection to the server at wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390%26sig%3DzpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%253D%26se%3D1689794487%26skn%3DWorkspaceShareKey. 183.0649633ec2f239e60b99.js:1:570866
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 3 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare signal rejected reason -> type:i props:{"fileName":"https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js","lineNumber":1,"columnNumber":6915,"message":"connection record disposed by ConnectionHub: {\n  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",\n  \"originalErrorType\": \"<no original type>\",\n  \"errorCode\": -1,\n  \"errorType\": \"GenericError\",\n  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\\n\"\n} $1 $1","errorType":"CancellationError"} 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare error during connection Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint connection failed, retrying 38 327.94d38c525cb7715fdd3d.js:1:33620
+Uncaught (in promise) Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1 $1
+    r https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    i https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    cancel https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    invoke https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    fire https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    onConnectionChangedHandler https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    handleConnectionError https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:6915
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 37, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
+Firefox can’t establish a connection to the server at wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390%26sig%3DzpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%253D%26se%3D1689794487%26skn%3DWorkspaceShareKey. 183.0649633ec2f239e60b99.js:1:570866
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 3 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare signal rejected reason -> type:i props:{"fileName":"https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js","lineNumber":1,"columnNumber":6915,"message":"connection record disposed by ConnectionHub: {\n  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",\n  \"originalErrorType\": \"<no original type>\",\n  \"errorCode\": -1,\n  \"errorType\": \"GenericError\",\n  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\\n\"\n} $1 $1","errorType":"CancellationError"} 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare error during connection Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint connection failed, retrying 37 327.94d38c525cb7715fdd3d.js:1:33620
+Uncaught (in promise) Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1 $1
+    r https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    i https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    cancel https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    invoke https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    fire https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    onConnectionChangedHandler https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    handleConnectionError https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:6915
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 36, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
+Firefox can’t establish a connection to the server at wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390%26sig%3DzpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%253D%26se%3D1689794487%26skn%3DWorkspaceShareKey. 183.0649633ec2f239e60b99.js:1:570866
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 3 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare signal rejected reason -> type:i props:{"fileName":"https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js","lineNumber":1,"columnNumber":6915,"message":"connection record disposed by ConnectionHub: {\n  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",\n  \"originalErrorType\": \"<no original type>\",\n  \"errorCode\": -1,\n  \"errorType\": \"GenericError\",\n  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\\n\"\n} $1 $1","errorType":"CancellationError"} 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare error during connection Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint connection failed, retrying 36 327.94d38c525cb7715fdd3d.js:1:33620
+Uncaught (in promise) Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n"
+} $1 $1
+    r https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    i https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    cancel https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    invoke https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    fire https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    onConnectionChangedHandler https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    handleConnectionError https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:6915
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 35, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
+GET
+wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature sr=sb%3A%2F%2Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%2F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390&sig=zpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%3D&se=1689794487&skn=WorkspaceShareKey
+[HTTP/1.1 404 There are no listeners connected for the endpoint. TrackingId:3c63ed41-c74f-4190-aff0-8ef3732ff79c_G1, SystemTracker:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390, Timestamp:2023-07-19T02:26:14 771ms]
+
+Firefox can’t establish a connection to the server at wss://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/$hc/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390?sb-hc-action=connect&sb-hc-token=SharedAccessSignature%20sr%3Dsb%253A%252F%252Fvsls-ppe-rel-asse-private-relay.servicebus.windows.net%252F94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390%26sig%3DzpssNzPFDl79be8NwSYtCNbuJ3tfBfWyai37QWIVXy8%253D%26se%3D1689794487%26skn%3DWorkspaceShareKey. 183.0649633ec2f239e60b99.js:1:570866
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "<no original type>",
+  "errorCode": -1,
+  "errorType": "GenericError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 3 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient disposing reason: 'Disposed from LiveShareConnection', disposing 1 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient stopCheckConnection reason:'disposed' 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare signal rejected reason -> type:i props:{"fileName":"https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js","lineNumber":1,"columnNumber":6915,"message":"connection record disposed by ConnectionHub: {\n  \"errorMessage\": \"Failed to connect to relay url Code: 1006 Reason: \",\n  \"originalErrorType\": \"<no original type>\",\n  \"errorCode\": -1,\n  \"errorType\": \"GenericError\",\n  \"stack\": \"[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\npromise [PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\npromise [PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n[PATH]/assets.[CODESPACE_URL]\\n\"\n} $1 $1","errorType":"CancellationError"} 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare error during connection Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: connecting -> disconnected, error: Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "disconnected", previousStatus: "connecting", error: Error }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F connecting -> disconnected 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F disposing the connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection-record disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n"
+}', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare disposing reason: 'connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n"
+} $1', disposing 2 objects 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare:delayed-disposable Disposing reason:undefined 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection failed:  Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33367
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing connection "972AFF2391F3F9991CFC20AC6B41EE9D680F" due to an error Error: Failed to connect to relay url Code: 1006 Reason: 
+    onclose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    webSshStreamFactory https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    openConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createSshWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createWorkspaceSession https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    join https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    t https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    n https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    measure https://assets.ppe.github.dev/static/964.da085526f8d126d8dda4.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:33436
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint disposing 972AFF2391F3F9991CFC20AC6B41EE9D680F connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint connection failed, retrying 35 327.94d38c525cb7715fdd3d.js:1:33620
+Uncaught (in promise) Error: connection record disposed by ConnectionHub: {
+  "errorMessage": "Failed to connect to relay url Code: 1006 Reason: ",
+  "originalErrorType": "[CreateConnectionFatalError:<no-code>]",
+  "errorCode": -1,
+  "errorType": "PromiseRaceError",
+  "stack": "[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\npromise [PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n[PATH]/assets.[CODESPACE_URL]\n"
+} $1 $1
+    r https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    i https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    cancel https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    dispose https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    disposeObject https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    dispose https://assets.ppe.github.dev/static/327.94d38c525cb7715fdd3d.js:1
+    disposeConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    onConnectionChanged https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    invoke https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    fire https://assets.ppe.github.dev/static/351.c6a6745567bb201721f4.js:1
+    onConnectionChangedHandler https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    handleConnectionError https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    connect https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    r https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    createConnection https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    o https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    promise callback*c https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+    a https://assets.ppe.github.dev/static/183.0649633ec2f239e60b99.js:1
+327.94d38c525cb7715fdd3d.js:1:6915
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint creating connection 
+Object { retries: 34, retryDelay: 2000, timeout: Infinity, shouldReconnect: false, rpcClient: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare-joint:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare-joint:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect once 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare requested to connect 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+ 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F connection record: false 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:972AFF2391F3F9991CFC20AC6B41EE9D680F creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection without a timeout 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare creating connection 
+Object { retries: 0, retryDelay: 0, timeout: Infinity, shouldReconnect: false, performance: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare subscribing to onDispose event 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare asked to connect 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating new connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating connection 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare connection status changed: none -> connecting, error: undefined 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare firing change event:  
+Object { status: "connecting", previousStatus: "none", error: undefined }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:onConnectionChanged:972AFF2391F3F9991CFC20AC6B41EE9D680F none -> connecting 327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare creating workspace client 
+Object { workspaceId: "972AFF2391F3F9991CFC20AC6B41EE9D680F", token: "eyJhbGciOiJSUzI1NiIsImtpZCI6IjNFQzU3RDBDOUE1MUQ0RjlCN0U3MUQ4QkI4NjFDREQ0RENCQTE0MTgiLCJ4NXQiOiJQc1Y5REpwUjFQbTM1eDJMdUdITjFOeTZGQmciLCJ0eXAiOiJKV1QifQ.eyJpZHAiOiJnaXRodWIiLCJ1c2VySWQiOiIzOThhNjY1NC05OTdiLTQ3ZTktYjEyYi05NTE1Yjg5NmI0ZGVfODM4MTYyMzciLCJzY3AiOiJzaGFyZTpzZXNzaW9uIGpvaW46c2Vzc2lvbiIsInNlc3Npb24iOiI5NEEyOTRDQTk0OUUxODE5NzQ1OEQ0MTVBNTA1NDVDMzNCNzQiLCJuYW1lIjoiVGFuZ3NoaW1laSIsImVtYWlsIjoiVGFuZ3NoaW1laUB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20iLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJUYW5nc2hpbWVpIiwiZXhwIjoxNjkxODkzNTM4LCJpc3MiOiJodHRwczovL3BwZS5saXZlc2hhcmUudnNlbmdzYWFzLnZpc3VhbHN0dWRpby5jb20vIiwiYXVkIjoiaHR0cHM6Ly9wcGUubGl2ZXNoYXJlLnZzZW5nc2Fhcy52aXN1YWxzdHVkaW8uY29tLyIsImp0aSI6IjJlZjRlNmQzLTkzNjgtNDJiZC05ZjU1LTk4ZGUwYzc1YmZjOSIsImlhdCI6MTY4OTczMzUzOCwibmJmIjoxNjg5NzMyNjM4fQ.gLmcVZHExfkTKVoIa2B4yqJDnCAyaAHrl94cyuKCd914gUbVTkEKC_qlfxzkWBlLkZ7sMzXvGDVSUHSLek9yaI8qiNaRqvFVNlYiKpsyooi3My1XRfnX9VJI2RFOvIt6bUG7MbCfM5zcEUTDabPSy7RKPJM-EBZu2hwSvUPBNCEvOyAvOQxlX9FlZLD3wGl5zWa-Wpoh4R6xAI5x25nEaTWfCSxoLj08DGRQrM0YVf0INlMGIAeCENVFa0RQXTq5fyKLwKiCC5hKaGkx2fgfO8xs9G_X6mJyJel-s_TcUt7ox085u7pGmRJfoJKdQtrXgG23YPOnXzG3gq5mk0jhlA", liveShareEndpoint: "https://ppe.liveshare.vsengsaas.visualstudio.com/api/v1.2/", connectionInfo: {…} }
+327.94d38c525cb7715fdd3d.js:1:33620
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient connecting to relay link:sb://vsls-ppe-rel-asse-private-relay.servicebus.windows.net/94a294ca949e18197458d415a50545c33b74--14235992-7716-45b4-9472-27492fa30390 327.94d38c525cb7715fdd3d.js:1:33530
+vscs:web-client:f761:codespaces-component:workbench-page:splash-screen:liveshare:connection:972AFF2391F3F9991CFC20AC6B41EE9D680F:liveshare:WorkspaceClient creating web SSH... 327.94d38c525cb7715fdd3d.js:1:33530
